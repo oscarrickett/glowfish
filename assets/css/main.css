@@ -307,7 +307,7 @@ input, select, textarea {
 		}
 
 		100% {
-			opacity: 1;
+			opacity: 0.25;
 		}
 	}
 
@@ -317,7 +317,7 @@ input, select, textarea {
 		}
 
 		100% {
-			opacity: 1;
+			opacity: 0.25;
 		}
 	}
 
@@ -327,7 +327,7 @@ input, select, textarea {
 		}
 
 		100% {
-			opacity: 1;
+			opacity: 0.25;
 		}
 	}
 
@@ -337,7 +337,7 @@ input, select, textarea {
 		}
 
 		100% {
-			opacity: 1;
+			opacity: 0.25;
 		}
 	}
 
